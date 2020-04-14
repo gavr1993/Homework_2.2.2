@@ -3,6 +3,22 @@
     <string name="settings">Настройки</string>
     <string name="notePad">Записная книжка</string>
     <string name="openNotepad">Отркыть записную книжку</string>
-    <string name="saveData">сохранить</string>
+    <string name="saveData">сохранено</string>
     <string name="save">сохранить</string>
+    <string name="startTime">"Дата начала задачи: "</string>
+    <string name="endTime">"Дата завершения задачи: "</string>
+    <string name="Error">Ошибка, проверьте введённые данные</string>
+    <string name="start">дата начала - </string>
+    <string name="finish">дата завершения - </string>
+    <string name="planner">Планировщик задач</string>
+    <string name="ok">ok</string>
+    <string name="address">Поиск адреса</string>
+    <string name="showAddress">показать адрес</string>
+    <string name="pay">Оплата</string>
+    <string name="payOk">ПЛАТЁЖ ПРИНЯТ</string>
+    <string name="money">введите сумму</string>
+    <string name="payInfo">ведите информацию о платеже</string>
+    <string name="card">с банковской карты</string>
+    <string name="mobile">" номера мобильного телефона"</string>
+    <string name="cash">наличными</string>
 </resources>

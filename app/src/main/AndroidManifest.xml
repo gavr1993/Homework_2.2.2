@@ -19,6 +19,9 @@
         </activity>
 
         <activity android:name=".NotesActivity" />
+        <activity android:name=".PlanActivity" />
+        <activity android:name=".AddressActivity" />
+        <activity android:name=".PayActivity" />
     </application>
 
 </manifest>

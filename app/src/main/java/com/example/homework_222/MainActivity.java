@@ -34,6 +34,21 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intentNotes);
         }
 
+        if (id == R.id.action_open_plans) {
+            Intent intentNotes = new Intent(MainActivity.this, PlanActivity.class);
+            startActivity(intentNotes);
+        }
+
+        if (id == R.id.action_open_address) {
+            Intent intentNotes = new Intent(MainActivity.this, AddressActivity.class);
+            startActivity(intentNotes);
+        }
+
+        if (id == R.id.action_open_pay) {
+            Intent intentNotes = new Intent(MainActivity.this, PayActivity.class);
+            startActivity(intentNotes);
+        }
+
         return super.onOptionsItemSelected(item);
     }
 }

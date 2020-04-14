@@ -14,4 +14,22 @@
         android:orderInCategory="100"
         android:title="@string/notePad"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_plans"
+        android:orderInCategory="100"
+        android:title="@string/planner"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_address"
+        android:orderInCategory="100"
+        android:title="@string/address"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_pay"
+        android:orderInCategory="100"
+        android:title="@string/pay"
+        app:showAsAction="never" />
 </menu>
