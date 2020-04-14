@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Органайзер</string>
+    <string name="settings">Настройки</string>
+    <string name="notePad">Записная книжка</string>
+    <string name="openNotepad">Отркыть записную книжку</string>
+    <string name="saveData">сохранить</string>
+    <string name="save">сохранить</string>
+</resources>
